@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "902755574865",
+    "firebase_url": "https://instgramapp-d18b9.firebaseio.com",
+    "project_id": "instgramapp-d18b9",
+    "storage_bucket": "instgramapp-d18b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902755574865:android:bd5944b7ea84b9e42c4470",
+        "android_client_info": {
+          "package_name": "com.example.instgramapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902755574865-7hgl6mfgt1ashsvheaceu8nqbnvbmoev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instgramapp",
+            "certificate_hash": "146acda87be782241eaf84f60421183fc701a073"
+          }
+        },
+        {
+          "client_id": "902755574865-rbdfem39tnfad04s5op47sd55e7n0e0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfSsJCnrAj63lSFycp3yvW4qwuOU028Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902755574865-rbdfem39tnfad04s5op47sd55e7n0e0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
